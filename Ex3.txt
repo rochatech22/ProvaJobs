@@ -1,0 +1,13 @@
+Respostas exercício 3;
+
+a) A lógica é que a sequência está adicionando 2 a cada elemento. O próximo número é 9.
+
+b) A lógica é que a sequência está multiplicando cada elemento por 2. O próximo número é 128.
+
+c) A lógica é que a sequência está adicionando os números ímpares em ordem crescente. O próximo número é 49.
+
+d) A lógica é que a sequência está adicionando 12 ao quadrado de cada número ímpar em ordem crescente. O próximo número é 100.
+
+e) A lógica é que a sequência é formada pela soma dos dois números anteriores. O próximo número é 13.
+
+f) A lógica não é tão evidente, mas parece que a sequência está alternando entre adicionar 8 e adicionar 2 a cada elemento. O próximo número seria 20.

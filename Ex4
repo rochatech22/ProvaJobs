@@ -1,0 +1,25 @@
+ Como eles estão a uma distância de 100 km um do outro, e suas velocidades são respectivamente 110 km/h e 80 km/h,
+ podemos calcular o tempo que levarão para se encontrar usando a fórmula:
+
+ tempo = distância / velocidade
+ carro:
+ tempo = 100 km / 110 km/h = 0,91 horas = 54,6 minutos
+ caminhão:
+ tempo = 100 km / 80 km/h = 1,25 horas = 75 minutos
+
+ Agora precisamos levar em conta o fato de que o caminhão leva 5 minutos a mais em cada pedágio do que o carro,
+ enquanto o carro passa sem parar com o sistema Sem Parar. Sabendo que há 2 pedágios no caminho, isso adicionará 10 minutos ao tempo de viagem do caminhão.
+ Portanto, o tempo total de viagem do caminhão será de 85 minutos.
+
+ distância = velocidade x tempo
+
+carro:
+
+ distância = 110 km/h x 0,91 horas = 100 km
+
+caminhão:
+
+ distância = 80 km/h x 1,42 horas = 113,6 km
+
+ Então, eles vão se encontrar a 100 km de Ribeirão Preto e a 13,6 km de Franca.
+ Portanto, o caminhão estará mais próximo da cidade de Ribeirão Preto quando eles se encontrarem na estrada.
